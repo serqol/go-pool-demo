@@ -6,13 +6,13 @@ Runs a web server, publishes sent json messages to rabbitmq and persists them to
 
 docker-compose up -d 
 
-// run app
-
-go run ./
-
 // configure your pool by editing .env file
 
 vim .env
+
+// run app
+
+go run ./
 
 // test app performance (you can get wrk here https://github.com/wg/wrk)
 
