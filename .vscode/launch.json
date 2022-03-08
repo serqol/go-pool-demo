@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Golang docker",
+            "type": "go",
+            "request": "attach",
+            "mode": "remote",
+            "remotePath": "/src",
+            "port": 40000,
+            "trace": "verbose",
+            "host": "127.0.0.1",
+            "cwd": "${workspaceFolder}/src",
+            "substitutePath": [
+                {
+                    "from": "/usr/local/go",
+                    "to": "/usr/local/go",
+                },
+            ],
+            "showLog": true,
+        },
+        {
+            "name": "Golang in-place",
+            "type": "go",
+            "request": "launch",
+            "trace": "verbose",
+            "mode": "auto",
+            "program": "${file}",
+            "substitutePath": [
+                {
+                    "from": "/usr/local/go",
+                    "to": "/usr/local/go",
+                },
+            ],
+            "env": {},
+            "args": []
+        }
+    ]
+}   
