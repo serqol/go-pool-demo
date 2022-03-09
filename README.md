@@ -14,4 +14,4 @@ go run ./
 
 // test app performance (you can get wrk here https://github.com/wg/wrk)
 
- wrk -s json.lua -t2 -c2 -d30s http://127.0.0.1:8888
+ wrk -s json.lua -t8 -c200 -d30s http://127.0.0.1:8888
