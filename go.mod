@@ -19,8 +19,8 @@ require (
 	github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742 // indirect
 	github.com/serqol/go-amqp v0.0.0-20220308161314-d70e644c70d7 // indirect
 	github.com/serqol/go-pool v0.0.0-20220308145503-f6b125452f87 // indirect
-	github.com/serqol/go-redis v0.0.0-20220308154206-c417e7c6c6be // indirect
-	github.com/serqol/go-utils v0.0.0-20220308153422-216e7f0d8365 // indirect
+	github.com/serqol/go-redis v0.0.0-20220309094229-105d9e974928 // indirect
+	github.com/serqol/go-utils v0.0.0-20220309093932-3db250c20574 // indirect
 	github.com/streadway/amqp v1.0.0 // indirect
 	github.com/ugorji/go/codec v1.1.7 // indirect
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9 // indirect

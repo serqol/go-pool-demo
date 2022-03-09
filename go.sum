@@ -39,8 +39,12 @@ github.com/serqol/go-pool v0.0.0-20220308145503-f6b125452f87 h1:FZpDGIj/9Mh5fVUl
 github.com/serqol/go-pool v0.0.0-20220308145503-f6b125452f87/go.mod h1:I6AQY18+TIgx8UfWRJhW+Z9NsrLf0ISwyXyyljPGjC0=
 github.com/serqol/go-redis v0.0.0-20220308154206-c417e7c6c6be h1:FhqPlFNpTBrIubO5jZNwBzSKGetro9FtHE5+/bY4M1w=
 github.com/serqol/go-redis v0.0.0-20220308154206-c417e7c6c6be/go.mod h1:FhRxQi6TB4tcTwhOC6zdDN9lHG47X5gbk+TNTvk6NpI=
+github.com/serqol/go-redis v0.0.0-20220309094229-105d9e974928 h1:mnLaFHxGCwybZxpRaPCrfK/meJsdeKN96gCKr045D5c=
+github.com/serqol/go-redis v0.0.0-20220309094229-105d9e974928/go.mod h1:qtJ9H1rbPO4upgarneHbztS1u+P9oWwG9fZ6sZ29omk=
 github.com/serqol/go-utils v0.0.0-20220308153422-216e7f0d8365 h1:clYUWoIRaLrne7vGzUA0xZ6tVWa1r1tf4SVDjBT+Mao=
 github.com/serqol/go-utils v0.0.0-20220308153422-216e7f0d8365/go.mod h1:NC2tgUIQYMrMTbLyoHc3Chr5whT1qY77dOU4CSRrbrE=
+github.com/serqol/go-utils v0.0.0-20220309093932-3db250c20574 h1:KuBfYwOOa0r8ZsmzRk4dKgtH/haD03g6yTOW9yI4rB8=
+github.com/serqol/go-utils v0.0.0-20220309093932-3db250c20574/go.mod h1:NC2tgUIQYMrMTbLyoHc3Chr5whT1qY77dOU4CSRrbrE=
 github.com/streadway/amqp v1.0.0 h1:kuuDrUJFZL1QYL9hUNuCxNObNzB0bV/ZG5jV3RWAQgo=
 github.com/streadway/amqp v1.0.0/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
